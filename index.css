@@ -1,0 +1,13 @@
+#name{
+    height: 30px;
+    width: 100px;
+
+}
+button{
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+}
+
+.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}
